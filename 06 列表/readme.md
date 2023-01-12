@@ -35,14 +35,14 @@ python内置函数如下：
 3. list(seq):将元组转化为列表。
 
 列表内置函数如下：
-1. append(obj):在列表末尾追加元素obj。
-2. count(obj):输出obj在列表中出现的次数。
-3. extend(seq):将序列seq中的值附加到列表末尾。
-4. index(obj):找出第一个匹配obj的索引位置。
-5. insert(index, obj):将元素插入列表。
-6. list.pop([index=-1])：移除列表中的一个元素（默认最后一个元素），并且返回该元素的值。
-7. list.remove(obj)：移除列表中某个值的第一个匹配项。
-8. list.reverse()：反向列表中元素。
-9. list.sort( key=None, reverse=False)：对原列表进行排序。
-10. list.clear()：清空列表。
-11. 	list.copy()：复制列表。
+1. `append(obj)`:在列表末尾追加元素obj。
+2. `count(obj)`:输出obj在列表中出现的次数。
+3. `extend(seq)`:将序列seq中的值附加到列表末尾。
+4. `index(obj)`:找出第一个匹配obj的索引位置。
+5. `insert(index, obj)`:将元素插入列表。
+6. `list.pop([index=-1])`：移除列表中的一个元素（默认最后一个元素），并且返回该元素的值。
+7. `list.remove(obj)`：移除列表中某个值的第一个匹配项。
+8. `list.reverse()`：反向列表中元素。
+9. `list.sort( key=None, reverse=False)`：对原列表进行排序。
+10. `list.clear()`：清空列表。
+11. `list.copy()`：复制列表。
