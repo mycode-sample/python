@@ -12,4 +12,5 @@ def area(a, b):
 
 hello_world()
 out_string(1, 2)
+out_string('1', '2')
 print(area(10, 20))
